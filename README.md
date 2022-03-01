@@ -4,4 +4,5 @@
 ##### Hello everyone, this is a small project to implement on javascript programming language, a stopwatch I hope you enjoy this project.
 
 > visit my project by the free hosting on GitHub: click this link:
-(DEMO)[https://wajd789.github.io/stopwatch.github.io/]
+
+[DEMO](https://wajd789.github.io/stopwatch.github.io/)
